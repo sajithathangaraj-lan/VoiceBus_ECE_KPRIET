@@ -48,7 +48,7 @@ This provides an intuitive and accessible interface for visually impaired users.
 
 
 
-# 🧩 Hardware Components
+#  Hardware Components
 
 | Component            | Description                           |
 | -------------------- | ------------------------------------- |
@@ -121,34 +121,28 @@ The project uses the Silicon Labs SiWG917 wireless MCU for:
 * Low-power operation
 
 
+# Project Structure
 
-#  Project Structure
+```text
 Bus-Stop-Alert-System/
-│
+├── README.md
+├── LICENSE
 ├── firmware/
 │   └── main.c
-│
-├── android-app/
-│   ├── java/
-│   ├── res/
-│   └── AndroidManifest.xml
-│
+├── web-dashboard/
+│   ├── index.html
+│   ├── styles.css
+│   └── app.js
 ├── hardware/
-│   ├── Schematic.png
 │   └── Workflow_Diagram.png
-│
 ├── docs/
-│   ├── Project_Report.pdf
-│   └── Presentation.pdf
-│
-├── screenshots/
-│   ├── Home.png
-│   ├── BusDetected.png
-│   ├── Boarding.png
-│   └── Skipped.png
-│
-├── README.md
-└── LICENSE
+│   └── Project_Report.pdf
+└── screenshots/
+    ├── Home_Screen.png
+    ├── Bus_Information_Screen.png
+    ├── Boarding_Confirmation.png
+    └── Bus_Skipped_Screen.png
+```
 
 #  User Interface Screenshots
 
