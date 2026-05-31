@@ -164,7 +164,7 @@ Bus-Stop-Alert-System/
 
 ## Bus Skipped Screen
 
-![Bus Skipped](docs/Bus_Skipped.jpeg)
+![Bus Skipped](docs/Bus_Skipped_Screen.jpeg)
 #  Results
 
 The developed prototype successfully:
