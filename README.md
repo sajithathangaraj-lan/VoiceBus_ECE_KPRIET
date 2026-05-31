@@ -76,7 +76,7 @@ This provides an intuitive and accessible interface for visually impaired users.
 # Workflow Diagram
 
 ### Workflow
-
+![Workflow](hardware/Workflow_Diagram.jpeg)
 1. Bus information is stored on the SiWG917 board.
 2. The board creates a Wi-Fi hotspot.
 3. Passengers connect to the hotspot.
