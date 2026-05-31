@@ -136,12 +136,12 @@ Bus-Stop-Alert-System/
 ├── hardware/
 │   └── Workflow_Diagram.png
 ├── docs/
-│   └── Project_Report.pdf
-└── screenshots/
-    ├── Home_Screen.png
-    ├── Bus_Information_Screen.png
-    ├── Boarding_Confirmation.png
-    └── Bus_Skipped_Screen.png
+    ├── Project_Report.pdf
+    ├── Home_Screen.jpeg
+    ├── Bus_Information_Screen.jpeg
+    ├── Options.jpeg
+    ├── Boarding_Confirmation.jpeg
+    └── Bus_Skipped_Screen.jpeg
 ```
 
 #  User Interface Screenshots
