@@ -244,6 +244,9 @@ This project is licensed under the MIT License.
 # Authors
 
 Nithya Shree C, Rithika J, Sajitha T, Sowmithra S
+
 Department of Electronics and Communication Engineering
+
 KPR Institute of Engineering and Technology
+
 Powered by Silicon Labs SiWG917
