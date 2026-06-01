@@ -69,7 +69,8 @@ This provides an intuitive and accessible interface for visually impaired users.
 * GitHub
 
 
-#
+# Hardware Tools
+![Hardware Tools](hardware/SiWG917.jpeg)
 
 
 
@@ -134,7 +135,8 @@ Bus-Stop-Alert-System/
 │   ├── styles.css
 │   └── app.js
 ├── hardware/
-│   └── Workflow_Diagram.png
+│   ├── Workflow_Diagram.png
+    └── SiWG917.jpeg
 ├── docs/
 │   ├── Project_Report.pdf
 │   ├── Home_Screen.jpeg
