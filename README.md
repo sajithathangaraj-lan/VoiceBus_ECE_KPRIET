@@ -251,12 +251,15 @@ This project is licensed under the MIT License.
 
 
 
-# Authors
+## Project Team
 
-Nithya Shree C, Rithika J, Sajitha T, Sowmithra S
+| Name | Email | GitHub Profile |
+|------|-------|---------------|
+| Nithya Shree C | shreenithya673@gmail.com | [Nithya-blip](https://github.com/Nithya-blip) |
+| Rithika J | rithikaprakash005@gmail.com | [RITHIKA352](https://github.com/RITHIKA352) |
+| Sajitha T | sajithathangaraj@gmail.com | [sajithathangaraj-lan](https://github.com/sajithathangaraj-lan) |
+| Sowmithra S | sowmithraselvam09@gmail.com | [Sowmithra09](https://github.com/Sowmithra09) |
 
-Department of Electronics and Communication Engineering
-
-KPR Institute of Engineering and Technology
-
-Powered by Silicon Labs SiWG917
+*Department:* Electronics and Communication Engineering  
+*Institution:* KPR Institute of Engineering and Technology  
+*Program:* Silicon Labs Centre of Innovation (COI-IoT)
